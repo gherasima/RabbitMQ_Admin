@@ -1,0 +1,14 @@
+{
+  "rabbitmq_src": "130.138.11.142",
+  "rabbitmq_user": "admin",
+  "rabbitmq_password": "oisus!!",
+  "rabbitmq_port": "15672",
+  "amqp_port": "5671",
+  "vhost": "vhost",
+  "queue": "",
+  "exchange": "",
+  "shovel": "migrate_shovel",
+  "rabbitmq_dest": "130.138.11.9",
+  "api_ssl": false,
+  "amqp_ssl": false
+}
